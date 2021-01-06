@@ -8,11 +8,14 @@
 <title>result</title>
 </head>
 <body>
+	<center>
 <h3>Submitted info</h3>
 	name:&nbsp; &nbsp;<c:out value="${name}"/><br>
 	location: &nbsp; &nbsp; <c:out value="${location}"/><br>
 	language: &nbsp; &nbsp;<c:out value="${language}"/><br>
 	comment: &nbsp; &nbsp;<c:out value="${comment}"/><br>
 	<button><a href="/">Go Back</a></button>
+	</center>
+
 </body>
 </html>
