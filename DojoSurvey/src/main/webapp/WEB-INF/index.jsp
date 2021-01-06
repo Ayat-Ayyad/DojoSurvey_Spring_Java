@@ -8,7 +8,7 @@ pageEncoding="ISO-8859-1"%>
 </head>
 <body>
 	<form method="POST" action="/result">
-		Your Name: <input type="text" name="name">
+		Your Name here: <input type="text" name="name">
 		<br>
 		Dojo Location: <select name="location">
 		<option value="San Jose">San Jose</option>
